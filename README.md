@@ -1,10 +1,20 @@
-<p align="center">
-    <h1>CRUD ASP.NET Core MVC e MongoDB | <strong><a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg">Artigo Tech</a></strong></h1>
-</p>
-
-<hr />
+<h1 align="center">
+    CRUD ASP.NET Core MVC e MongoDB | <strong><a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg">Artigo Tech</a></strong>
+</h1>
 
 <div align="center">
+
+## Comandos DotNet CLI
+
+> Criar projeto ASP.NET Core MVC
+```
+dotnet new mvc --name CrudMongoDB
+```
+
+> Instalação Driver MongoDB
+```
+dotnet add package MongoDB.Driver --version 2.13.2
+```
 
 ## Sobre o Projeto
 
