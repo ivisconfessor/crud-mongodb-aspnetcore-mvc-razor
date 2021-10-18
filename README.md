@@ -5,8 +5,8 @@
 <div align="center">
 
 ## Comandos DotNet CLI
-
-> Criar projeto ASP.NET Core MVC
+ 
+`Criar projeto ASP.NET Core MVC`
 ```
 dotnet new mvc --name CrudMongoDB
 ```
