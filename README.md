@@ -20,7 +20,11 @@
 
 <p>
     <strong>Parte 1</strong>
-    <a href="https://www.youtube.com/watch?v=dywcsdYFUq0">Artigo Tech</a>
+    <img 
+        src="https://i.ytimg.com/vi/dywcsdYFUq0/maxresdefault.jpg" 
+        alt="CRUD ASP.NET Core MVC e MongoDB"
+    />
+    <a href="https://www.youtube.com/watch?v=dywcsdYFUq0">Clique aqui para assistir!</a>
 </p>
 
 <p>
