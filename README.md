@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## Comandos DotNet CLI
+## 👨🏽‍💻 Comandos DotNet CLI
  
 `Criar projeto ASP.NET Core MVC`
 ```
