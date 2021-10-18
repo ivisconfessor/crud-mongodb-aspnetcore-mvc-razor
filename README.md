@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## Links das Vídeos Aulas no YouTube | Artigo Tech
+## Links das Vídeos Aulas no YouTube
 
 <p>
     <strong>Parte 1</strong> | <a href="https://www.youtube.com/watch?v=dywcsdYFUq0">Clique aqui para assistir!</a>
@@ -30,7 +30,8 @@
 
 <p>
     <strong>Parte 2</strong> | <a href="https://www.youtube.com/watch?v=dywcsdYFUq0">Clique aqui para assistir!</a>
-    <br/> 
+    <br />
+    <br /> 
     <img 
         src="https://i.ytimg.com/vi/vevmhpwcwmg/maxresdefault.jpg" 
         alt="CRUD ASP.NET Core MVC e MongoDB - Parte 2"
