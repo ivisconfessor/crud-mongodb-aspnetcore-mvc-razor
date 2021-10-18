@@ -19,7 +19,9 @@
 ## Links das Vídeos Aulas no YouTube | Artigo Tech
 
 <p>
-    <strong>Parte 1</strong> | <a href="https://www.youtube.com/watch?v=dywcsdYFUq0">Clique aqui para assistir!</a> <br />
+    <strong>Parte 1</strong> | <a href="https://www.youtube.com/watch?v=dywcsdYFUq0">Clique aqui para assistir!</a>
+    <br />
+    <br />
     <img 
         src="https://i.ytimg.com/vi/dywcsdYFUq0/maxresdefault.jpg" 
         alt="CRUD ASP.NET Core MVC e MongoDB - Parte 1"
