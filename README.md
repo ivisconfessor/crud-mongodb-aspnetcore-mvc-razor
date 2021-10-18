@@ -1,5 +1,5 @@
-<p align="center" style="font-size:larger">
-    CRUD ASP.NET Core MVC e MongoDB | <strong><a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg">Artigo Tech</a></strong>
+<p align="center">
+    <h1>CRUD ASP.NET Core MVC e MongoDB | <strong><a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg">Artigo Tech</a></strong></h1>
 </p>
 
 <hr />
