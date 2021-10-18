@@ -11,10 +11,15 @@
 dotnet new mvc --name CrudMongoDB
 ```
 
-> Instalação Driver MongoDB
+`Instalação Driver MongoDB`
 ```
 dotnet add package MongoDB.Driver --version 2.13.2
 ```
+
+</div>
+
+
+<div align="center">
 
 ## Sobre o Projeto
 
