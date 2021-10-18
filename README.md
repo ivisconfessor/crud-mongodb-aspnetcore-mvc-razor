@@ -7,9 +7,8 @@
 ## Sobre o Projeto
 
 <p>
-    Em duas vídeos aulas no meu Canal no YouTube - <strong><a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg">Artigo Tech</a></strong>
-    <br />
-    Te ensinei a desenvolver um CRUD com ASP.NET Core MVC, persistindo os dados em uma base MongoDB, além de mostrar o uso das bibliotecas, DataTable, SweetAlert2 e do serviço MongoDB Atlas.
+    Em duas vídeos aulas no meu Canal no YouTube - <strong><a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg">Artigo Tech</a></strong>,
+    te ensinei a desenvolver um CRUD com ASP.NET Core MVC, persistindo os dados em uma base MongoDB, além de mostrar o uso das bibliotecas, DataTable, SweetAlert2 e do serviço MongoDB Atlas.
     <br />
 </p>
 
