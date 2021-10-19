@@ -85,5 +85,5 @@ dotnet add package MongoDB.Driver --version 2.13.2
 
 <div align="center">
     Feito com <span role="img" aria-label="coração">❤️</span> por <strong><a href="https://github.com/ivisconfessor">Ivís Confessor</a></strong> 
-    em duas vídeos aulas no Canal <strong><a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg">Artigo Tech</a></strong>
+    em duas vídeo aulas no Canal <strong><a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg">Artigo Tech</a></strong>
 </div>
